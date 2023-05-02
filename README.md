@@ -1,2 +1,4 @@
 # deployment_computer_vision
-berikut tugas Deployment Computer Vision Yossi Arif Rachman
+Yudhi Fariztia
+12050513126 
+Kelas Mustang HPE 3
