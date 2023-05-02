@@ -1,4 +1,4 @@
 # Web-Deployment-CV
-Yudhi Fariztia
+Yudhi Fariztian
 12050513126 
 Kelas Mustang HPE 3
